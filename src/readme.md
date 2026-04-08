@@ -44,15 +44,17 @@ Operações implementadas:
 - FilaArray.java
     Devem estar todos na mesmo mesmo diretório para realizar a execução
 ## Instruções para compilar e executar
+Necessário o Java JDK intalado para rodar
+Link para Download:
 
-    Necessário o Java JDK intalado para rodar
-Link para Download:https://www.oracle.com/br/java/technologies/downloads/
+    https://www.oracle.com/br/java/technologies/downloads/
+
 ### Compilar
-```bash
-javac Main.java PilhaArray.java FilaArray.java
-```
+
+    javac Main.java PilhaArray.java FilaArray.java
+
 Esse comando vai gerar os arquivos .class
 Depois de compilar, é possível rodar o projeto com:
-```bash
-java Main
-```
+
+    java Main
+

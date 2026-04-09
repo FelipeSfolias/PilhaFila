@@ -6,6 +6,7 @@ Felipe Eduardo Sfolias Stachak
 
 ## Link para vídeo com explicação do Projeto:
 
+https://youtu.be/-7Gb5LW2Bko
 
 ## Descrição do projeto
 Este projeto foi desenvolvido em Java com o objetivo de demonstrar o funcionamento de duas estruturas de dados muito importantes na programação: pilha e fila.
